@@ -1,4 +1,4 @@
 # fired
-Notebooks and anonymized dataset of bedside-ai.com "is my computer going to get me fired?" post.
+Notebooks and anonymized dataset of simonvan.be "is my computer going to get me fired?" post.
 
-See https://www.bedside-ai.com/is-my-computer-going-to-get-me-fired/ for the full text.
+See https://www.simonvan.be/is-my-computer-going-to-get-me-fired/ for the full text.
